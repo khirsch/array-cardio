@@ -1,10 +1,10 @@
-# Array Cardio
+# Array Cardio: Day 1
 
 #### By [Katrina Hirsch](https://github.com/khirsch)
 
 ## Description
 
-Array Cardio is the fourth of thirty projects in the [JavaScript30](https://javascript30.com/) series.
+Array Cardio: Day 1 is the fourth of thirty projects in the [JavaScript30](https://javascript30.com/) series.
 
 ## Installation
 
