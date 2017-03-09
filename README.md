@@ -8,13 +8,13 @@ Array Cardio: Day 1 is the fourth of thirty projects in the [JavaScript30](https
 
 ## Installation
 
-* `git clone https://github.com/khirsch/array-cardio`
-* `cd array-cardio`
+* `git clone https://github.com/khirsch/array-cardio-1`
+* `cd array-cardio-1`
 * `open index.html`
 
 ## Known Bugs
 
-There are no known bugs at this time. To report a bug, please visit the [Github Issues page](https://github.com/khirsch/array-cardio/issues) for this repository.
+There are no known bugs at this time. To report a bug, please visit the [Github Issues page](https://github.com/khirsch/array-cardio-1/issues) for this repository.
 
 ## Support & Contact Details
 
